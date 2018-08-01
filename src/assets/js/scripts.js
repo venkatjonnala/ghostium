@@ -7,6 +7,7 @@
     var GHOSTIUM = window.GHOSTIUM;
 
     // Cache a couple of useful elements
+    // Cache a couple
     // =================
     var $window   = $(window),
         $document = $(document),
